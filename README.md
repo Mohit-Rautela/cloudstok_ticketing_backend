@@ -1,1 +1,0 @@
-# cloudstok_ticketing_backend
